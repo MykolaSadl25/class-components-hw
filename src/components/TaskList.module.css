@@ -1,0 +1,23 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.item{
+    padding: 20px;
+    outline: 1px solid white;
+    border-radius: 25px;
+}
+
+.btn{
+    border: none;
+    padding: 10px;
+    outline: 1px solid white;
+    border-radius: 25px;
+}
